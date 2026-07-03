@@ -1,4 +1,5 @@
 # 📊 HR Attrition Dashboard
+![Dashboard](Dashboard.png)
 
 An interactive Power BI dashboard built using the IBM HR Analytics Employee Attrition dataset to identify the key factors that contribute to employee turnover and support HR decision-making.
 
