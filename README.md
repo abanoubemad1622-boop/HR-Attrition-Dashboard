@@ -85,3 +85,17 @@ IBM HR Analytics Employee Attrition Dataset (fictional dataset created by IBM Da
 ## 👨‍💻 Author
 
 Abanoub Emad
+
+## Dashboard Preview
+
+### HR Attrition Dashboard
+
+![Dashboard](Dashboard.png)
+
+### Employee Attrition Analysis
+
+![Analysis](Analysis.png)
+
+### Key Insights
+
+![Insights](Insights.png)
