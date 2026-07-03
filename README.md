@@ -163,7 +163,7 @@ HR-Attrition-Dashboard/
 ├── Dashboard.png
 ├── Analysis.png
 ├── Insights.png
-└── WA_Fn-UseC_-HR-Employee-Attrition.csv
+└── HR-Employee-Attrition.csv
 ```
 
 ---
