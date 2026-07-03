@@ -172,7 +172,7 @@ HR-Attrition-Dashboard/
 
 **Abanoub Emad**
 
-- Aspiring Data Analyst
+- Data Analyst
 - Skilled in Power BI, SQL, Excel, and DAX
 
 GitHub:
